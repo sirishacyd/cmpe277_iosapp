@@ -7,8 +7,11 @@ The purpose of the assignment is to re-run the following iOS App (code provided)
 * Unit Converter
 * File Example
 
-### unit converter Screen Captures
+### Unit converter Screen Capture
 ![unit](screenshots/unit_converter.png)
+
+### FileExample Screen Capture
+![file](screenshots/file.png)
 
 
 
