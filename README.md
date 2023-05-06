@@ -1,4 +1,4 @@
-### cmpe277_iosapp
+### cmpe277_Iosapp
 ### Course: Smartphone Application Development
 ### Student Name : Sirisha Polisetty
 
